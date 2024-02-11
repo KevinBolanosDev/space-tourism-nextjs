@@ -5,7 +5,7 @@ export default function Logo() {
     return (
         <>
             <Image
-            className="w-[4em] h-auto md:w-[4.8em] md:h-auto md:ml-[55px]"
+            className="w-[4em] h-auto md:w-[4.8em] md:h-auto"
             src={logo}
             alt="Logo"
             />
